@@ -1,3 +1,3 @@
-#demo
+**demo**
 
-pink is my favourite colour
+pink is my favourite colour.
